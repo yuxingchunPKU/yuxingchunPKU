@@ -12,7 +12,7 @@ YuXingchun 北京大学数学科学学院信息与计算科学专业20级博士�
 
 
 我的仓库将包含下面几项内容
-- 1. Computational Math
+- 1.Computational Math
             - Fem： 有限元求解PDE    
               将会用Matlab实现  
 
