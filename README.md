@@ -12,24 +12,24 @@ YuXingchun 北京大学数学科学学院信息与计算科学专业20级博士�
 
 
 我的仓库将包含下面几项内容
+- 1. Computational Math
+            - Fem： 有限元求解PDE    
+              将会用Matlab实现  
 
-- Fem： 有限元求解PDE    
-  将会用Matlab实现  
-  
-- CFD：  计算流体力学的程序
+            - CFD：  计算流体力学的程序
 
-- NMPDE:  偏微分方程数值解
+            - NMPDE:  偏微分方程数值解
 
-- NMOpt： 数值最优化
+            - NMOpt： 数值最优化
 
-- NMAly: 数值分析
-  一些基础的计算数学的算法
-  
-- MatrixCompu:  矩阵计算的算法
+            - NMAly: 数值分析
+              一些基础的计算数学的算法
 
-- SpectralMethods: 谱方法 
+            - MatrixCompu:  矩阵计算的算法
 
-- Tools:  一些有趣的小工具
+            - SpectralMethods: 谱方法 
+
+- 2.Tools:  一些有趣的小工具
 
 
 上面这些仓库都是我在课程中遇到的。对我自己来说是一个极好的鞭策。 我也希望自己能够多多维护这些代码。 日复一日，终有所成。
